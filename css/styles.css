@@ -51,6 +51,7 @@ body {
   padding: 2rem;
   width: 92%;
   align-items: center;
+  overflow: hidden;
 }
 
 /* ------------------------------
